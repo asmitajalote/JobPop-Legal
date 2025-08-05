@@ -5,7 +5,7 @@ This repository contains the publicly accessible legal documents for **JobPop**,
 - [Privacy Policy](https://asmitajalote.github.io/JobPop-Legal/PrivacyPolicy.html)
 - [Terms of Service](https://asmitajalote.github.io/JobPop-Legal/TermsOfService.html)
 
-## 🔒 Disclaimer
+# Disclaimer
 
 These legal documents are for informational purposes only and are provided as part of JobPop’s compliance with mobile platform requirements. They do not constitute legal advice. For any questions or concerns, please contact:
 
